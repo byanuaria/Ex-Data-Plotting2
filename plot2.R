@@ -1,3 +1,5 @@
+# Question 2: Have total emissions from PM2.5 decreased in Baltimore City, Maryland from 1999 to 2008?
+
 # read in data
 NEI <- readRDS("summarySCC_PM25.rds")
 SCC <- readRDS("Source_Classification_Code.rds")
