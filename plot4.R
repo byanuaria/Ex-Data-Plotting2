@@ -1,11 +1,11 @@
-# reading in data
+# read in data
 NEI <- readRDS("summarySCC_PM25.rds")
 SCC <- readRDS("Source_Classification_Code.rds")
 
 # load packages
 library(tidyverse)
 
-# convert SCC from factor class to character 
+# convert to proper classes
 SCC$SCC <- as.character(SCC$SCC)
 NEI$year <- as.character(NEI$year)
 NEI$type <- as.factor(NEI$type)
