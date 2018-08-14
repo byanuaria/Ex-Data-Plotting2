@@ -6,9 +6,6 @@ SCC <- readRDS("Source_Classification_Code.rds")
 library(tidyverse)
 require(scales)
 
-# plot showing the total PM2.5 emission from all sources
-# (type) for each of the years 1999, 2002, 2005 and 2008
-
 #convert type to factor class
 NEI$type <- as.factor(NEI$type)
 
