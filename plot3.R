@@ -1,4 +1,4 @@
-# reading in data
+# read in data
 NEI <- readRDS("summarySCC_PM25.rds")
 SCC <- readRDS("Source_Classification_Code.rds")
 
@@ -8,7 +8,7 @@ library(tidyverse)
 # convert as factor
 NEI$type <- as.factor(NEI$type)
 
-# filtering data
+# filter data
 MD_emissions2 <- NEI %>%
   select(fips, Emissions, year, type) %>%
   filter(fips == "24510") %>%
