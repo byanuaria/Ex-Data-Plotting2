@@ -1,4 +1,4 @@
-# Question: have total emissions from PM2.5 decreased in the United States from 1999 to 2008?
+# Question 1: have total emissions from PM2.5 decreased in the United States from 1999 to 2008?
 
 # load data
 NEI <- readRDS("summarySCC_PM25.rds")
