@@ -3,8 +3,8 @@ The overall goal of this assignment is to explore the National Emissions Invento
 
 ***
 > Have total emissions from PM2.5 decreased in the United States from 1999 to 2008? 
--> ### Plot 1 <-      
--> ![plot of Plot1](/images/plot1.png) <-
+### Plot 1      
+![plot of Plot1](/images/plot1.png)
 
 
 ___
