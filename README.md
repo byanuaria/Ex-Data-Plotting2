@@ -1,10 +1,13 @@
 # Exploratory Data Analysis - Plotting
 The overall goal of this assignment is to explore the National Emissions Inventory database and see what it say about fine particulate matter pollution in the United states over the 10-year period 1999–2008.
 
-> 1. Have total emissions from PM2.5 decreased in the United States from 1999 to 2008? Make a plot showing the total PM2.5 emission from all sources for each of the years 1999, 2002, 2005, and 2008.
-
+<p align="center">
 ### Plot 1      
 ![plot of Plot1](/images/plot1.png)
+</p>
+
+> 1. Have total emissions from PM2.5 decreased in the United States from 1999 to 2008? Make a plot showing the total PM2.5 emission from all sources for each of the years 1999, 2002, 2005, and 2008.
+
 
  * Based on plot 1, it appears that there is, in fact, a <b>decrease</b> in total PM2.5 emissions in the United States from 1999 to 2008.
      * The most obvious decrease is on the <u>non-point</u> source of emissions. As the years pass, there is a significant decrease in total emissions from over 5 million in 1999, to 2.5 million in 2008.
