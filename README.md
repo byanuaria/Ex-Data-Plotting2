@@ -5,7 +5,11 @@ The overall goal of this assignment is to explore the National Emissions Invento
 *1. Have total emissions from PM2.5 decreased in the United States from 1999 to 2008?*
 ### Plot 1      
 ![plot of Plot1](/images/plot1.png)
-
+Based on plot 1, it appears that there is in fact, a decrease in total PM2.5 emissions in the United States from 1999 to 2008.
++ The most obvious decrease is the **non-point** source of emissions. As the years pass, there is a significant decrease in total emissions from over 5 million in 1999, to 2.5 million in 2008.
++ The **point** source follows a sharp decrease from 1999 to 2002, then increases slightly the following few years, eventually petering off in 2005.
++ The **non-road** point shows a slow, but steady decrease from 1999 to 2008.
++ The **on-road** point shows a nearly linear decreasing pattern, albeit very minimal.
 
 ___
 *2. Have total emissions from PM2.5 decreased in the Baltimore City, Maryland from 1999 to 2008?* 
