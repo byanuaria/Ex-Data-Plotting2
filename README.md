@@ -17,7 +17,7 @@ ___
 ### Plot 2
 ![plot of Plot2](/images/plot2.png)
 
-+ In 1999, there was over 3,200 tons of PM2.5 being emitted, sharly decreasing to around 2,500 tons in 2002, and increases again back to 3,100 tons in 2005. This increase significant decreases in 2008, down to an all-time low of around 1,800 tons.
++ In 1999, there was over 3,200 tons of PM2.5 being emitted, sharply decreasing to around 2,500 tons in 2002, and increases again back to 3,100 tons in 2005. This increase significantly decreases in 2008, down to an all-time low of around 1,800 tons.
 
 
 ___
